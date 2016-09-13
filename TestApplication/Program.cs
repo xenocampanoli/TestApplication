@@ -10,7 +10,7 @@ namespace TestApplication
     {
         static void Main(string[] args)
         {
-            // Note:  Something added. And a bit more.
+            // Note:  Something added. And a bit more..
         }
     }
 }
