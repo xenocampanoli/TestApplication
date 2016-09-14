@@ -11,6 +11,7 @@ namespace TestApplication
         static void Main(string[] args)
         {
             // Note:  Something added. And a bit more..
+            System.Console.WriteLine("Hello World");
         }
     }
 }
